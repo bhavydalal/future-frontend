@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://futrclo.in/",
+      "destination": "https://www.futrclo.in/",
       "permanent": true
     }
   ]
